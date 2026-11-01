@@ -1,0 +1,13 @@
+{
+  "name": "glowmoor",
+  "version": "1.0.0",
+  "description": "Glowmoor: a walkable 3D moor with shared rooms. No dependencies.",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
